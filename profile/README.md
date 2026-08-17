@@ -12,12 +12,6 @@
   We make the tools. You create the games.
 </p>
 
----
-
-<p align="center">
-  Stay updated on our latest news, behind-the-scenes content, product launches, and community events. Come say hi!
-</p>
-
 <div align="center">
   <a href="https://catsoft.works" target="_blank">Catsoft Works</a>
   &nbsp;
