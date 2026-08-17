@@ -1,9 +1,9 @@
 <p align="center">
   <a href="https://catsoft.works" target="_blank">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/catsoft-works/.github/HEAD/.github/Media/logo-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/catsoft-works/.github/HEAD/.github/Media/logo-light.svg">
-      <img alt="Catsoft Works" src="https://raw.githubusercontent.com/catsoft-works/.github/HEAD/.github/Media/logo-light.svg" width="350" height="70" style="max-width: 100%;">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/catsoft-works/.github/refs/heads/main/media/logo-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/catsoft-works/.github/refs/heads/main/Media/logo-light.svg">
+      <img alt="Catsoft Works" src="https://raw.githubusercontent.com/catsoft-works/.github/refs/heads/main/Media/logo-light.svg" width="350" height="70" style="max-width: 100%;">
     </picture>
   </a>
 </p>
@@ -19,17 +19,11 @@
 </p>
 
 <div align="center">
-  <a href="https://catsoft.works" target="_blank">
-    Catsoft Works
-  </a>
+  <a href="https://catsoft.works" target="_blank">Catsoft Works</a>
   &nbsp;
-  <a href="https://gamecreator.io" target="_blank">
-    Game Creator
-  </a>
+  <a href="https://gamecreator.io" target="_blank">Game Creator</a>
   &nbsp;
-  <a href="https://visualscript.dev" target="_blank">
-    Visual Script
-  </a>
+  <a href="https://visualscript.dev" target="_blank">Visual Script</a>
 </div>
 
 <br/>
