@@ -37,9 +37,3 @@
   &nbsp;
   <a href="https://go.catsoft.work/youtube" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
 </div>
-
----
-
-<div align="center">
-  <sup>© 2026 CATSOFT WORKS. All rights reserved.</sup>
-</div>
